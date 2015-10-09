@@ -66,3 +66,6 @@
 	path = bundle/taglist
 	url = https://github.com/vim-scripts/taglist.vim.git
         ignore = dirty
+[submodule "bundle/youdao"]
+	path = bundle/youdao
+	url = https://github.com/ianva/vim-youdao-translater.git
