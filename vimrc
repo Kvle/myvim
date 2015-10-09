@@ -5,3 +5,7 @@ call pathogen#infect()
 call pathogen#helptags()
 
 nnoremap <leader>v <Plug>TaskList
+
+vnoremap <silent> <C-T> <Esc>:Ydv<CR> 
+nnoremap <silent> <C-T> <Esc>:Ydc<CR> 
+noremap <leader>yd :Yde<CR>
