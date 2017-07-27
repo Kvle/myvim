@@ -14,10 +14,6 @@
 	path = bundle/vim-git
 	url = https://github.com/tpope/vim-git.git
     ignore = dirty
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
-    ignore = dirty
 [submodule "bundle/pyflakes-pathogen"]
 	path = bundle/pyflakes-pathogen
 	url = https://github.com/mitechie/pyflakes-pathogen.git
