@@ -70,6 +70,9 @@
 	path = bundle/doxgentoolkit
 	url = https://github.com/vim-scripts/DoxygenToolkit.vim.git
     ignore = dirty
-[submodule "/Users/gener/.vim/bundle/kotlin-vim"]
-	path = /Users/gener/.vim/bundle/kotlin-vim
+[submodule "bundle/kotlin-vim"]
+	path = bundle/kotlin-vim
 	url = https://github.com/udalov/kotlin-vim
+[submodule "bundle/swift.vim"]
+	path = bundle/swift.vim
+	url = https://github.com/keith/swift.vim.git
